@@ -1,6 +1,8 @@
 # Color Found
 Find a basic color name from a HEX code
 
+![](http://www.mr80.net/images/2015/09/colorwheel.png)
+
 For an ecommerce store, I need a tool to convert a hex code from product image to a pre-defined basic color in my store. I look for the solution of this task and I found the basic alogrithm to handle this conversion.
 
 **Alogrithm**
