@@ -18,7 +18,7 @@ Color 2 RGB Value: Red2, Green2, Blue 2
 
 **Example**
 
-{% highlight php %}
+```
 <?php
 
 require_once('ColorFound.php');
@@ -26,4 +26,4 @@ require_once('ColorFound.php');
 $colorFound = new ColorFound;
 echo $colorFound->getName("#66a85a"); // which will return 'green' based on the defined Base Colors
 
-{% endhighlight %}
+```
